@@ -13,3 +13,4 @@ To avoid plagiarism, each homework's code will not upload until the deadline.
 
 * Homework #2
   * 2019/11/07 19_Line_of_Battle.cpp finished.
+  * 2019/11/09 22_Weigh_Anchor.cpp finished.
