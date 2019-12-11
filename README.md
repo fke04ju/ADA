@@ -16,3 +16,6 @@ To avoid plagiarism, each homework's code will not upload until the deadline.
   * 2019/11/09 22_Weigh_Anchor.cpp finished.
   * 2019/11/09 21_Pokemon_GO.cpp finished.
   * 2019/11/10 20_Chunithm.cpp finished.
+
+* Homework #3
+  * 2019/12/11 24_Traveling_Pony_Problem.cpp finished.
